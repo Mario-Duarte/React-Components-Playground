@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# React components playground
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Safe place to create react components in isolation from a project.
+This was created using [react-create-app](https://create-react-app.de) using the [TypeScript](https://create-react-app.dev/docs/adding-typescript/) template and extended to include [styled-components](https://styled-components.com/) and [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ## Available Scripts
 
