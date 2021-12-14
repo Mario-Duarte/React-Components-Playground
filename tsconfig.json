@@ -2,7 +2,6 @@
   "compilerOptions": {
     "target": "es5",
     "lib": [
-      "es6",
       "dom",
       "dom.iterable",
       "esnext"
@@ -29,8 +28,5 @@
   ],
   "exclude": [
     ".storybook"
-  ],
-  "paths": {
-    "@mui/styled-engine": ["./node_modules/@mui/styled-engine-sc"],
-  },
+  ]
 }

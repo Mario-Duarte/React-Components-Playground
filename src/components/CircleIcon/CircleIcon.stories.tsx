@@ -1,5 +1,5 @@
 import React from 'react';
-import { colors } from '../../theme/colors';
+import { colors } from 'theme/colors';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import { CircleIcon } from './CircleIcon';
 import styled from 'styled-components';

@@ -1,10 +1,9 @@
 import { colors } from "../../theme/colors";
 import {
-    CardContent,
     CardActionArea,
     Typography,
 } from "@mui/material";
-import { CircleIcon } from "../../components/CircleIcon";
+import { CircleIcon } from "components/CircleIcon";
 import {
     StyledCard,
     StyledCardContent,

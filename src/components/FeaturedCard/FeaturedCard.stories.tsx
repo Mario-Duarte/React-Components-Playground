@@ -1,6 +1,5 @@
-import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
-import { FeaturedCard } from './FeaturedCard';
+import { FeaturedCard } from 'components/FeaturedCard';
 
 export default {
     component: FeaturedCard,
