@@ -1,4 +1,5 @@
 import React from 'react';
+import { StyledEngineProvider } from '@mui/styled-engine';
 import { ThemeProvider } from '@mui/material';
 import theme from 'theme/theme';
 import GlobalStyles from 'App.styles';
@@ -6,10 +7,12 @@ import { Footer } from 'appComponents/Footer';
 
 function App() {
   return (
-    <ThemeProvider theme={theme}>
+    <StyledEngineProvider injectFirst>
+      <ThemeProvider theme={theme}>
       <GlobalStyles/>
-      <Footer />
-    </ThemeProvider>
+        <Footer />
+      </ThemeProvider>
+    </StyledEngineProvider>
   );
 }
 
