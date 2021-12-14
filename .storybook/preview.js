@@ -1,4 +1,4 @@
-import { ThemeProvider } from '@mui/material';
+import { ThemeProvider } from 'styled-components';
 import { StyledEngineProvider } from '@mui/styled-engine';
 import theme from '../src/theme/theme';
 

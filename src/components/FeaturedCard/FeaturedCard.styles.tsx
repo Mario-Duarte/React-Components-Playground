@@ -4,7 +4,7 @@ import {
     CardActionArea,
     Typography,
 } from "@mui/material";
-import styled from "styled-components";
+import { styled } from '@mui/system';
 import { colors } from "../../theme/colors";
 
 export const StyledCard = styled(Card)`
@@ -44,7 +44,15 @@ export const StyledCardMedia = styled.div<StyledCardMediaProps>`
 `;
 
 export const StyledCardContent = styled(CardContent)`
-    padding: 0 40px 40px 40px;
+    padding: ${p => p.theme.spacing(2.5)};
+
+    ${p => p.theme.breakpoints.up('sm')} {
+        //Mobile and up
+    }
+
+    ${p => p.theme.breakpoints.down('md')} {
+        //Tablet and bellow
+    }
 `;
 
 export const Featured = styled.p`
