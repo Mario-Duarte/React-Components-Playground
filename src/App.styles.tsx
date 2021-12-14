@@ -20,6 +20,12 @@ const GlobalStyles = createGlobalStyle`
         font-family: 'Roboto', 'Helvetica Neue', sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
+    }
+
+`;
+
+export const AppStyles = createGlobalStyle`
+    body {
         background-color: ${colors.electronBlue};
     }
 
@@ -55,7 +61,6 @@ const GlobalStyles = createGlobalStyle`
             }
         }
     }
-
 `;
 
 export default GlobalStyles;

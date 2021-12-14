@@ -4,6 +4,7 @@ Safe place to create react components in isolation from a project.
 This was created using [react-create-app](https://create-react-app.de) using the [TypeScript](https://create-react-app.dev/docs/adding-typescript/) template and extended to include the following libraries/extension/addons:
 * [React Query](https://react-query.tanstack.com/overview)
 * [styled-components](https://styled-components.com/)
+* [jest-styled-components](https://github.com/styled-components/jest-styled-components)
 * [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/)
 * [MUI v5](https://mui.com/getting-started/usage/)
 * [StoryBooks](https://storybook.js.org/) - In order to add the custom theme from MUI v5 to StoryBooks please [read this article](https://pretagteam.com/question/how-to-theme-material-ui-inside-storybook)
