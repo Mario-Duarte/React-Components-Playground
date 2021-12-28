@@ -15,7 +15,8 @@ This was created using [react-create-app](https://create-react-app.de) using the
 * [Polished](https://polished.js.org/)
 * [clsx](https://github.com/lukeed/clsx)
 
-
+Feel free to extend this with any other libraries/tools you would like.<br/>
+You can [Contact me](https://twitter.com/MDesignsuk) if you have any queries/questions in regards to this project or any other coding/tuition questions.
 
 ## Available Scripts
 
