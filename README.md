@@ -1,3 +1,4 @@
+![logo](https://github.com/Mario-Duarte/React-Components-Playground/blob/master/public/logo192.png?raw=true)
 # React components playground
 
 Safe place to create react components in isolation from a project.
