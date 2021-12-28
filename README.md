@@ -2,7 +2,7 @@
 # React components playground
 
 Safe place to create react components in isolation from a project.
-This was created using [react-create-app](https://create-react-app.de) using the [TypeScript](https://create-react-app.dev/docs/adding-typescript/) template and extended to include the following libraries/extension/addons:
+This was created using [react-create-app](https://create-react-app.dev) using the [TypeScript](https://create-react-app.dev/docs/adding-typescript/) template and extended to include the following libraries/extension/addons:
 * [React Query](https://react-query.tanstack.com/overview)
 * [styled-components](https://styled-components.com/)
 * [jest-styled-components](https://github.com/styled-components/jest-styled-components)
