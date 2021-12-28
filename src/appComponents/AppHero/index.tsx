@@ -1,0 +1,1 @@
+export {AppHero} from './AppHero';

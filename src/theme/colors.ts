@@ -4,7 +4,7 @@ export const colors = {
     mintLeaf: '#00b894',
     fadedPoster: '#81ecec',
     robinEggsBlue: '#00cec9',
-    greenDarnerTail: '##74b9ff',
+    greenDarnerTail: '#74b9ff',
     electronBlue: '#0984e3',
     shyMoment: '#a29bfe',
     exodusFruit: '#6c5ce7',

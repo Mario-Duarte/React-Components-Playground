@@ -19,7 +19,6 @@ const theme = createTheme({
             fontSize: "1rem",
         },
     },
-
     bg: {
         main: '#fff',
         light: '#F4F5F7'

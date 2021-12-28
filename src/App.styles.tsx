@@ -26,7 +26,7 @@ const GlobalStyles = createGlobalStyle`
 
 export const AppStyles = createGlobalStyle`
     body {
-        background-color: ${colors.electronBlue};
+        background-color: ${colors.cityLights};
     }
 
     ::selection {
